@@ -737,13 +737,13 @@ border-top-right-radius: 5px;
     float: left;
   }
     .block {
-      margin: 50px 50px 0 0;
+      margin: 25px 25px 0 0;
       margin-left: auto;
       margin-bottom: 30px;
       background: #394264;
       border-radius: 5px;
       float: left;
-      width: 350px;
+      width: 300px;
       overflow: hidden;
     }
     /******************************************** LEFT CONTAINER *****************************************/
